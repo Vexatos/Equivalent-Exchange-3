@@ -60,7 +60,7 @@ command.ee3:sounds.set_to_self=Spiele nur Equivalent-Exchange-3-Geräusche vom e
 command.ee3:sounds.turned_off=Das Abspielen von Equivalent-Exchange-3-Geräuschen wurde deaktiviert
 
 # Version check localizations
-version.ee3:init_log_message=version.init_log_message">Initialisiere Versionsvergleich mit der Remotedatei, die sich auf folgendem Server befindet: %s
+version.ee3:init_log_message=Initialisiere Versionsvergleich mit der Remotedatei, die sich auf folgendem Server befindet: %s
 version.ee3:uninitialized=Die Versionsprüfung wurde nicht erfolgreich abgeschlossen (Versionsprüfung wurde nicht entsprechend initialisiert)
 version.ee3:current=Du benutzt gerade die aktuellste Version von Equivalent Exchange 3 (%s) für %s
 version.ee3:outdated=Eine neue %s Version (%s) für %s ist verfügbar. Hole sie dir hier: %s
